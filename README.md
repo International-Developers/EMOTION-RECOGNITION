@@ -1,2 +1,2 @@
 # EMOTION-RECOGNITION
- Static Image Based Emotion Recognition with Concolution Neural Network
+ Static Image Based Emotion Recognition with Convolution Neural Network
